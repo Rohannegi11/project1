@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'diamond';
+  background-color: #1F2833;
+  font-weight: 1000;
+}
+#headline {
+  color: black;
+  margin: 30px auto 10 20px;
+  border-left: 10px solid black;
+  background-color: white;
+  padding: 10px;
+}
+#main {
+  height: 600px;
+  max-width: 30%;
+  min-width: 30%;
+  border: 8px solid black;
+  border-radius: 30px;
+  margin: 30px auto;
+  background-color: #45A29E;
+  box-shadow: 4px 4px 6px gray;
+}
+
+#camera {
+  width: 10%;
+  height: 20px;
+  margin: 15px auto;
+  border: 6px solid black;
+  border-radius: 55px;
+}
+#app {
+  margin: 100px auto;
+  text-align: center;
+  width: 70%;
+  background-color: #0b0C10;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  border-radius: 30px;
+}
+.inpt {
+  display: inline-block;
+  padding: 4px 15px;
+  margin: 10px;
+  font-size: 8px;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.nav1 {
+  margin: 195px auto 30px 40px;
+  height: 30px;
+  width: 45px;
+  border: 4px solid black;
+  border-radius: 15px;
+}
+.nav2{
+  margin: -70px auto 30px 185px;
+  height: 30px;
+  width: 45px;
+  border: 4px solid black;
+  border-radius: 15px;
+
+ 
+}
+.nav3{
+  
+  margin: -70px auto 40px 325px;
+  height: 30px;
+  width: 45px;
+  border: 4px solid black;
+  border-radius: 15px;
+
+}
